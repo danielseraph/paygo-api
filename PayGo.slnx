@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="PayGo.API/PayGo.API.csproj" />
+  <Project Path="PayGo.Core/PayGo.Core.csproj" />
+  <Project Path="PayGo.Integrations/PayGo.Integrations.csproj" />
+  <Project Path="PayGo.Model/PayGo.Model.csproj" />
+  <Project Path="PayGo.Persistence/PayGo.Persistence.csproj" />
+  <Project Path="PayGo.Service/PayGo.Service.csproj" />
+</Solution>

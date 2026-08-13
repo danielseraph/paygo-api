@@ -1,0 +1,6 @@
+@PayGo.API_HostAddress = http://localhost:5294
+
+GET {{PayGo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
