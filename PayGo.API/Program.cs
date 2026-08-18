@@ -1,3 +1,4 @@
+using PayGo.Integrations;
 using PayGo.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 // Add the persistence layer services to the DI container
 builder.Services.AddPersistenceLayer(builder.Configuration);
+// Add the integrations layer services to the DI container
+builder.Services.AddIntegrationsLayer(builder.Configuration);
 
 var app = builder.Build();
 

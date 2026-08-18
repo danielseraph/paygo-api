@@ -36,3 +36,4 @@ C:\Users\ADMIN\OneDrive\Desktop\PayGo\PayGo-Api\PayGo.Integrations\obj\Debug\net
 C:\Users\ADMIN\OneDrive\Desktop\PayGo\PayGo-Api\PayGo.Integrations\obj\Debug\net10.0\refint\PayGo.Integrations.dll
 C:\Users\ADMIN\OneDrive\Desktop\PayGo\PayGo-Api\PayGo.Integrations\obj\Debug\net10.0\PayGo.Integrations.pdb
 C:\Users\ADMIN\OneDrive\Desktop\PayGo\PayGo-Api\PayGo.Integrations\obj\Debug\net10.0\ref\PayGo.Integrations.dll
+C:\Users\ADMIN\OneDrive\Desktop\PayGo\PayGo-Api\PayGo.Integrations\obj\Debug\net10.0\PayGo.Integrations.sourcelink.json

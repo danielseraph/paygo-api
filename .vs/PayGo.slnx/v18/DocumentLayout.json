@@ -3,19 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06C1FABB-20EC-4DFD-869B-1913174A8B6C}|PayGo.API\\PayGo.API.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C1FABB-20EC-4DFD-869B-1913174A8B6C}|PayGo.API\\PayGo.API.csproj|solutionrelative:paygo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.integrations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|solutionrelative:paygo.integrations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.core\\config\\paystacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|solutionrelative:paygo.core\\config\\paystacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.integrations\\paystack\\services\\paystackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|solutionrelative:paygo.integrations\\paystack\\services\\paystackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.integrations\\paystack\\abstractions\\ipaystackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|solutionrelative:paygo.integrations\\paystack\\abstractions\\ipaystackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.integrations\\paystack\\dtos\\paystackwebhookpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|solutionrelative:paygo.integrations\\paystack\\dtos\\paystackwebhookpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.integrations\\paystack\\dtos\\paystackverifyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|solutionrelative:paygo.integrations\\paystack\\dtos\\paystackverifyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.integrations\\paystack\\dtos\\paystackinitializeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|solutionrelative:paygo.integrations\\paystack\\dtos\\paystackinitializeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.integrations\\paystack\\dtos\\paystackinitializerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61924728-2B65-05AE-71E1-2013678EC274}|PayGo.Integrations\\PayGo.Integrations.csproj|solutionrelative:paygo.integrations\\paystack\\dtos\\paystackinitializerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68239216-AB6F-B26D-F8BD-C44F8B88811B}|PayGo.Model\\PayGo.Model.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.model\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68239216-AB6F-B26D-F8BD-C44F8B88811B}|PayGo.Model\\PayGo.Model.csproj|solutionrelative:paygo.model\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06C1FABB-20EC-4DFD-869B-1913174A8B6C}|PayGo.API\\PayGo.API.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{06C1FABB-20EC-4DFD-869B-1913174A8B6C}|PayGo.API\\PayGo.API.csproj|solutionrelative:paygo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1FABB-20EC-4DFD-869B-1913174A8B6C}|PayGo.API\\PayGo.API.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C1FABB-20EC-4DFD-869B-1913174A8B6C}|PayGo.API\\PayGo.API.csproj|solutionrelative:paygo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06C1FABB-20EC-4DFD-869B-1913174A8B6C}|PayGo.API\\PayGo.API.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.api\\paygo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,10 +90,6 @@
       "RelativeMoniker": "D:0:0:{8B38AF41-D42B-C2DA-46B8-64D3E54B93BA}|PayGo.Persistence\\PayGo.Persistence.csproj|solutionrelative:paygo.persistence\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B38AF41-D42B-C2DA-46B8-64D3E54B93BA}|PayGo.Persistence\\PayGo.Persistence.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.persistence\\configurations\\merchantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B38AF41-D42B-C2DA-46B8-64D3E54B93BA}|PayGo.Persistence\\PayGo.Persistence.csproj|solutionrelative:paygo.persistence\\configurations\\merchantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B38AF41-D42B-C2DA-46B8-64D3E54B93BA}|PayGo.Persistence\\PayGo.Persistence.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.persistence\\paygodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B38AF41-D42B-C2DA-46B8-64D3E54B93BA}|PayGo.Persistence\\PayGo.Persistence.csproj|solutionrelative:paygo.persistence\\paygodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -80,10 +108,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68239216-AB6F-B26D-F8BD-C44F8B88811B}|PayGo.Model\\PayGo.Model.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.model\\entities\\reconciliationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68239216-AB6F-B26D-F8BD-C44F8B88811B}|PayGo.Model\\PayGo.Model.csproj|solutionrelative:paygo.model\\entities\\reconciliationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68239216-AB6F-B26D-F8BD-C44F8B88811B}|PayGo.Model\\PayGo.Model.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.model\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68239216-AB6F-B26D-F8BD-C44F8B88811B}|PayGo.Model\\PayGo.Model.csproj|solutionrelative:paygo.model\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68239216-AB6F-B26D-F8BD-C44F8B88811B}|PayGo.Model\\PayGo.Model.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.model\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -108,10 +132,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.core\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|solutionrelative:paygo.core\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.core\\config\\paystacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|solutionrelative:paygo.core\\config\\paystacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.core\\helpers\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -176,6 +196,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.core\\enums\\ledgerentrytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E346F9-6852-B032-BE38-27BBA544FFA8}|PayGo.Core\\PayGo.Core.csproj|solutionrelative:paygo.core\\enums\\ledgerentrytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B38AF41-D42B-C2DA-46B8-64D3E54B93BA}|PayGo.Persistence\\PayGo.Persistence.csproj|c:\\users\\admin\\onedrive\\desktop\\paygo\\paygo-api\\paygo.persistence\\migrations\\20260812000857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B38AF41-D42B-C2DA-46B8-64D3E54B93BA}|PayGo.Persistence\\PayGo.Persistence.csproj|solutionrelative:paygo.persistence\\migrations\\20260812000857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -185,37 +209,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json",
-              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-12T00:18:51.897Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "IPaystackService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\Abstractions\\IPaystackService.cs",
+              "RelativeDocumentMoniker": "PayGo.Integrations\\Paystack\\Abstractions\\IPaystackService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\Abstractions\\IPaystackService.cs",
+              "RelativeToolTip": "PayGo.Integrations\\Paystack\\Abstractions\\IPaystackService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T22:48:46.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20260812000857_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs",
-              "RelativeDocumentMoniker": "PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs",
-              "RelativeToolTip": "PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PayGo.Integrations\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\DependencyInjection.cs",
+              "RelativeToolTip": "PayGo.Integrations\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T00:08:58.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-15T22:57:54.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PaystackSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Config\\PaystackSettings.cs",
+              "RelativeDocumentMoniker": "PayGo.Core\\Config\\PaystackSettings.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Config\\PaystackSettings.cs",
+              "RelativeToolTip": "PayGo.Core\\Config\\PaystackSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T20:00:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaystackWebhookPayload.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\DTOs\\PaystackWebhookPayload.cs",
+              "RelativeDocumentMoniker": "PayGo.Integrations\\Paystack\\DTOs\\PaystackWebhookPayload.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\DTOs\\PaystackWebhookPayload.cs",
+              "RelativeToolTip": "PayGo.Integrations\\Paystack\\DTOs\\PaystackWebhookPayload.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T22:50:28.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.API\\Program.cs",
               "RelativeDocumentMoniker": "PayGo.API\\Program.cs",
@@ -228,7 +274,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "PaystackService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
+              "RelativeDocumentMoniker": "PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
+              "RelativeToolTip": "PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T22:55:21.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaystackVerifyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\DTOs\\PaystackVerifyResponse.cs",
+              "RelativeDocumentMoniker": "PayGo.Integrations\\Paystack\\DTOs\\PaystackVerifyResponse.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\DTOs\\PaystackVerifyResponse.cs",
+              "RelativeToolTip": "PayGo.Integrations\\Paystack\\DTOs\\PaystackVerifyResponse.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T22:50:54.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaystackInitializeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\DTOs\\PaystackInitializeResponse.cs",
+              "RelativeDocumentMoniker": "PayGo.Integrations\\Paystack\\DTOs\\PaystackInitializeResponse.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\DTOs\\PaystackInitializeResponse.cs",
+              "RelativeToolTip": "PayGo.Integrations\\Paystack\\DTOs\\PaystackInitializeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T22:50:04.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaystackInitializeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\DTOs\\PaystackInitializeRequest.cs",
+              "RelativeDocumentMoniker": "PayGo.Integrations\\Paystack\\DTOs\\PaystackInitializeRequest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\DTOs\\PaystackInitializeRequest.cs",
+              "RelativeToolTip": "PayGo.Integrations\\Paystack\\DTOs\\PaystackInitializeRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T22:49:48.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "PayGo.Model\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\Transaction.cs",
+              "RelativeToolTip": "PayGo.Model\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T20:20:35.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json",
+              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\5149f6ce-8e82-48ff-a809-c12fd20701ee\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T00:18:51.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20260812000857_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs",
+              "RelativeToolTip": "PayGo.Persistence\\Migrations\\20260812000857_InitialCreate.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T00:08:58.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.API\\appsettings.json",
               "RelativeDocumentMoniker": "PayGo.API\\appsettings.json",
@@ -236,25 +366,23 @@
               "RelativeToolTip": "PayGo.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-11T23:38:35.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:38:35.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PayGo.Persistence",
+              "DocumentIndex": 13,
+              "Title": "PayGo.Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\PayGo.Persistence.csproj",
               "RelativeDocumentMoniker": "PayGo.Persistence\\PayGo.Persistence.csproj",
               "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\PayGo.Persistence.csproj",
               "RelativeToolTip": "PayGo.Persistence\\PayGo.Persistence.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-11T22:47:56.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T22:47:56.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "PayGo.API.csproj",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.API\\PayGo.API.csproj",
               "RelativeDocumentMoniker": "PayGo.API\\PayGo.API.csproj",
@@ -262,12 +390,11 @@
               "RelativeToolTip": "PayGo.API\\PayGo.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-09T17:10:12.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T17:10:12.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\DependencyInjection.cs",
@@ -275,12 +402,11 @@
               "RelativeToolTip": "PayGo.Persistence\\DependencyInjection.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:32:50.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:32:50.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "AuditLogConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\AuditLogConfiguration.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\Configurations\\AuditLogConfiguration.cs",
@@ -288,12 +414,11 @@
               "RelativeToolTip": "PayGo.Persistence\\Configurations\\AuditLogConfiguration.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:31:23.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:31:23.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ReconciliationRecordConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\ReconciliationRecordConfiguration.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\Configurations\\ReconciliationRecordConfiguration.cs",
@@ -301,12 +426,11 @@
               "RelativeToolTip": "PayGo.Persistence\\Configurations\\ReconciliationRecordConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:30:24.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:30:24.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "NotificationConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\NotificationConfiguration.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\Configurations\\NotificationConfiguration.cs",
@@ -314,12 +438,11 @@
               "RelativeToolTip": "PayGo.Persistence\\Configurations\\NotificationConfiguration.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:29:40.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:29:40.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "WebhookEventConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\WebhookEventConfiguration.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\Configurations\\WebhookEventConfiguration.cs",
@@ -327,12 +450,11 @@
               "RelativeToolTip": "PayGo.Persistence\\Configurations\\WebhookEventConfiguration.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAswBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:28:47.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:28:47.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "LedgerEntryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\LedgerEntryConfiguration.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\Configurations\\LedgerEntryConfiguration.cs",
@@ -340,12 +462,11 @@
               "RelativeToolTip": "PayGo.Persistence\\Configurations\\LedgerEntryConfiguration.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAswB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:24:07.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:24:07.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "PaymentLinkConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\PaymentLinkConfiguration.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\Configurations\\PaymentLinkConfiguration.cs",
@@ -353,12 +474,11 @@
               "RelativeToolTip": "PayGo.Persistence\\Configurations\\PaymentLinkConfiguration.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:23:20.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:23:20.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "TransactionConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\TransactionConfiguration.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\Configurations\\TransactionConfiguration.cs",
@@ -366,25 +486,11 @@
               "RelativeToolTip": "PayGo.Persistence\\Configurations\\TransactionConfiguration.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAswCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:21:52.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:21:52.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MerchantConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\MerchantConfiguration.cs",
-              "RelativeDocumentMoniker": "PayGo.Persistence\\Configurations\\MerchantConfiguration.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\Configurations\\MerchantConfiguration.cs",
-              "RelativeToolTip": "PayGo.Persistence\\Configurations\\MerchantConfiguration.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA7wA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:17:32.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "PayGoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Persistence\\PayGoDbContext.cs",
               "RelativeDocumentMoniker": "PayGo.Persistence\\PayGoDbContext.cs",
@@ -392,12 +498,11 @@
               "RelativeToolTip": "PayGo.Persistence\\PayGoDbContext.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwCoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T22:55:28.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T22:55:28.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "AuditLog.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\AuditLog.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Entities\\AuditLog.cs",
@@ -405,25 +510,11 @@
               "RelativeToolTip": "PayGo.Model\\Entities\\AuditLog.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAcwAMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:53:15.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:53:15.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\Transaction.cs",
-              "RelativeDocumentMoniker": "PayGo.Model\\Entities\\Transaction.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\Transaction.cs",
-              "RelativeToolTip": "PayGo.Model\\Entities\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:20:35.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "ReconciliationRecord.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\ReconciliationRecord.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Entities\\ReconciliationRecord.cs",
@@ -431,12 +522,11 @@
               "RelativeToolTip": "PayGo.Model\\Entities\\ReconciliationRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:52:33.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:52:33.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "PaymentLink.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\PaymentLink.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Entities\\PaymentLink.cs",
@@ -444,12 +534,11 @@
               "RelativeToolTip": "PayGo.Model\\Entities\\PaymentLink.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:24:38.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:24:38.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\Notification.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Entities\\Notification.cs",
@@ -457,12 +546,11 @@
               "RelativeToolTip": "PayGo.Model\\Entities\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:46:41.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:46:41.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Merchant.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\Merchant.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Entities\\Merchant.cs",
@@ -470,12 +558,11 @@
               "RelativeToolTip": "PayGo.Model\\Entities\\Merchant.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA4wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:14:18.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:14:18.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "LedgerEntry.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\LedgerEntry.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Entities\\LedgerEntry.cs",
@@ -483,12 +570,11 @@
               "RelativeToolTip": "PayGo.Model\\Entities\\LedgerEntry.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA8wAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:29:56.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:29:56.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "WebhookEvent.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\WebhookEvent.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Entities\\WebhookEvent.cs",
@@ -496,12 +582,11 @@
               "RelativeToolTip": "PayGo.Model\\Entities\\WebhookEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:40:11.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:40:11.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Responses\\Notification.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Responses\\Notification.cs",
@@ -509,12 +594,11 @@
               "RelativeToolTip": "PayGo.Model\\Responses\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:46:00.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:46:00.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Config\\JwtSettings.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Config\\JwtSettings.cs",
@@ -522,25 +606,11 @@
               "RelativeToolTip": "PayGo.Core\\Config\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:02:58.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T20:02:58.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "PaystackSettings.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Config\\PaystackSettings.cs",
-              "RelativeDocumentMoniker": "PayGo.Core\\Config\\PaystackSettings.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Config\\PaystackSettings.cs",
-              "RelativeToolTip": "PayGo.Core\\Config\\PaystackSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:00:48.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "IdGenerator.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Helpers\\IdGenerator.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Helpers\\IdGenerator.cs",
@@ -548,12 +618,11 @@
               "RelativeToolTip": "PayGo.Core\\Helpers\\IdGenerator.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T19:39:03.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T19:39:03.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "PagedResponse.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Responses\\PagedResponse.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Responses\\PagedResponse.cs",
@@ -561,12 +630,11 @@
               "RelativeToolTip": "PayGo.Core\\Responses\\PagedResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T19:20:19.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T19:20:19.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Responses\\ApiResponse.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Responses\\ApiResponse.cs",
@@ -574,12 +642,11 @@
               "RelativeToolTip": "PayGo.Core\\Responses\\ApiResponse.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA0wAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T19:07:27.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T19:07:27.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Model\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "PayGo.Model\\Entities\\Common\\BaseEntity.cs",
@@ -587,12 +654,11 @@
               "RelativeToolTip": "PayGo.Model\\Entities\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T20:15:27.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T20:15:27.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "PayGoConstants.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Constants\\PayGoConstants.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Constants\\PayGoConstants.cs",
@@ -600,12 +666,11 @@
               "RelativeToolTip": "PayGo.Core\\Constants\\PayGoConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T19:02:37.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T19:02:37.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\UserRole.cs",
@@ -613,12 +678,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T18:58:09.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T18:58:09.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "MerchantStatus.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\MerchantStatus.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\MerchantStatus.cs",
@@ -626,12 +690,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\MerchantStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T18:56:48.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T18:56:48.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "WebhookStatus.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\WebhookStatus.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\WebhookStatus.cs",
@@ -639,12 +702,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\WebhookStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T18:54:59.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T18:54:59.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "PaymentLinkStatus.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\PaymentLinkStatus.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\PaymentLinkStatus.cs",
@@ -652,12 +714,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\PaymentLinkStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T18:47:55.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T18:47:55.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "PaymentProvider.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\PaymentProvider.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\PaymentProvider.cs",
@@ -665,12 +726,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\PaymentProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T19:53:28.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T19:53:28.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "PaymentStatus.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\PaymentStatus.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\PaymentStatus.cs",
@@ -678,12 +738,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\PaymentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T19:51:53.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T19:51:53.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "ReconciliationStatus.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\ReconciliationStatus.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\ReconciliationStatus.cs",
@@ -691,12 +750,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\ReconciliationStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T20:53:01.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T20:53:01.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "RiskLevel.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\RiskLevel.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\RiskLevel.cs",
@@ -704,12 +762,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\RiskLevel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T20:54:46.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T20:54:46.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "TransactionType.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\TransactionType.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\TransactionType.cs",
@@ -717,12 +774,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\TransactionType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T20:47:08.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T20:47:08.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "NotificationType.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\NotificationType.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\NotificationType.cs",
@@ -730,12 +786,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\NotificationType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T20:56:48.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T20:56:48.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "NotificationChannel.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\NotificationChannel.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\NotificationChannel.cs",
@@ -743,12 +798,11 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\NotificationChannel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T18:40:56.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T18:40:56.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "LedgerEntryType.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Core\\Enums\\LedgerEntryType.cs",
               "RelativeDocumentMoniker": "PayGo.Core\\Enums\\LedgerEntryType.cs",
@@ -756,8 +810,7 @@
               "RelativeToolTip": "PayGo.Core\\Enums\\LedgerEntryType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T20:49:08.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T20:49:08.317Z"
             }
           ]
         }
