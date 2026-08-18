@@ -209,20 +209,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PaystackService.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
-              "RelativeDocumentMoniker": "PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
-              "RelativeToolTip": "PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-15T22:55:21.835Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -270,6 +258,31 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-15T22:50:28.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.API\\Program.cs",
+              "RelativeDocumentMoniker": "PayGo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.API\\Program.cs",
+              "RelativeToolTip": "PayGo.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T23:50:42.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaystackService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
+              "RelativeDocumentMoniker": "PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
+              "RelativeToolTip": "PayGo.Integrations\\Paystack\\Services\\PaystackService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T22:55:21.835Z"
             },
             {
               "$type": "Document",
@@ -342,18 +355,6 @@
               "ViewState": "AgIAAE8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-12T00:08:58.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.API\\Program.cs",
-              "RelativeDocumentMoniker": "PayGo.API\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\PayGo\\PayGo-Api\\PayGo.API\\Program.cs",
-              "RelativeToolTip": "PayGo.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:50:42.322Z"
             },
             {
               "$type": "Document",
