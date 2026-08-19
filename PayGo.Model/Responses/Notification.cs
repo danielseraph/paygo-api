@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PayGo.Model.Responses
 {
-    internal class Notification
+    public class Notification
     {
     }
 }
