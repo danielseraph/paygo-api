@@ -6,6 +6,7 @@ using PayGo.Model.Requests;
 using PayGo.Model.Responses;
 using PayGo.Persistence;
 using PayGo.Service.Interfaces;
+using System.Security.Cryptography;
 
 namespace PayGo.Service.Implementations;
 
@@ -20,6 +21,7 @@ public class MerchantService : IMerchantService
 
     public async Task<ApiResponse<MerchantResponse>> CreateMerchantAsync(CreateMerchantRequest request, CancellationToken cancellationToken = default)
     {
+        // Check if a merchant with the same email already exists
         var existing = await _dbContext.Merchants
             .FirstOrDefaultAsync(m => m.Email == request.Email, cancellationToken);
 
@@ -28,6 +30,16 @@ public class MerchantService : IMerchantService
             return new ApiResponse<MerchantResponse>().FailureResponse($"Merchant with email {request.Email} already exists.");
         }
 
+        // Generate unique API key and secret for the merchant
+        var rawApiKey = $"pk_live_{Guid.NewGuid().ToString("N")}";
+        var rawApiSecret = $"sk_live_{Guid.NewGuid().ToString("N")}";
+
+        // Hash the API secret before storing it in the database
+        var hashedApiSecret = Convert.ToHexString(
+            SHA256.HashData(System.Text.Encoding.UTF8.GetBytes(rawApiSecret))
+            ).ToLowerInvariant();
+
+        // Create a new merchant entity
         var merchant = new Merchant
         {
             BusinessName = request.BusinessName,
@@ -36,15 +48,16 @@ public class MerchantService : IMerchantService
             BusinessAddress = request.BusinessAddress,
             CurrencyCode = request.CurrencyCode,
             Status = MerchantStatus.Active,
-            ApiKey = $"pk_live_{Guid.NewGuid().ToString("N")}",
-            ApiSecret = $"sk_live_{Guid.NewGuid().ToString("N")}"
+            ApiKey = rawApiKey,
+            ApiSecret = hashedApiSecret,
         };
 
         _dbContext.Merchants.Add(merchant);
         await _dbContext.SaveChangesAsync(cancellationToken);
-
+        // Map response — and inject the raw secret ONLY here, ONLY at creation time
         var response = MapToResponse(merchant);
-        return new ApiResponse<MerchantResponse>().SuccessResponse(response, "Merchant created successfully", 201);
+        response.ApiSecret = rawApiSecret; // raw value — merchant must save this immediately
+        return new ApiResponse<MerchantResponse>().SuccessResponse(response, "Merchant created successfully. Store your API secret now — it will not be shown again.", 201);
     }
 
     public async Task<ApiResponse<MerchantResponse>> GetMerchantByIdAsync(Guid merchantId, CancellationToken cancellationToken = default)
