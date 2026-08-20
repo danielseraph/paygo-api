@@ -6,6 +6,8 @@ using PayGo.Model.Requests;
 using PayGo.Model.Responses;
 using PayGo.Persistence;
 using PayGo.Service.Interfaces;
+using System.Data;
+using System.Data.Common;
 
 namespace PayGo.Service.Implementations;
 
@@ -26,37 +28,57 @@ public class LedgerService : ILedgerService
             return new ApiResponse<LedgerEntryResponse>().FailureResponse("Merchant not found", 404);
         }
 
-        // Calculate latest balance
-        var currentBalanceRes = await GetMerchantBalanceAsync(request.MerchantId, cancellationToken);
-        decimal currentBalance = currentBalanceRes.Success ? currentBalanceRes.Data : 0m;
+        // Open a serializable transaction so that concurrent requests for the same merchant
+        // are forced to execute sequentially. This prevents the read-modify-write race condition
+        // where two simultaneous payments corrupt the BalanceAfter value.
+        await using var dbTransaction = await _dbContext.Database
+            .BeginTransactionAsync(IsolationLevel.Serializable, cancellationToken);
 
-        decimal balanceAfter = request.EntryType switch
+        try
         {
-            LedgerEntryType.Credit => currentBalance + request.Amount,
-            LedgerEntryType.Debit => currentBalance - request.Amount,
-            _ => currentBalance
-        };
+            // Inside the serializable transaction, this read acquires a range lock in PostgreSQL.
+            // Any other request trying to read/write ledger entries for this merchant will WAIT
+            // until we call CommitAsync below.
+            var lastEntry = await _dbContext.LedgerEntries
+                .Where(l => l.MerchantId == request.MerchantId)
+                .OrderByDescending(l => l.CreatedAt)
+                .FirstOrDefaultAsync(cancellationToken);
 
-        var entry = new LedgerEntry
+            decimal currentBalance = lastEntry?.BalanceAfter ?? 0m;
+
+            decimal balanceAfter = request.EntryType switch
+            {
+                LedgerEntryType.Credit => currentBalance + request.Amount,
+                LedgerEntryType.Debit => currentBalance - request.Amount,
+                _ => currentBalance
+            };
+
+            var entry = new LedgerEntry
+            {
+                MerchantId = request.MerchantId,
+                TransactionId = request.TransactionId,
+                EntryType = request.EntryType,
+                TransactionType = TransactionType.Payment,
+                Amount = request.Amount,
+                BalanceAfter = balanceAfter,
+                CurrencyCode = request.CurrencyCode ?? "NGN", 
+                Description = request.Description,
+                Reference = request.Reference
+            };
+
+            _dbContext.LedgerEntries.Add(entry);
+            await _dbContext.SaveChangesAsync(cancellationToken);
+            await dbTransaction.CommitAsync(cancellationToken);
+
+            var response = MapToResponse(entry);
+            return new ApiResponse<LedgerEntryResponse>().SuccessResponse(response, "Ledger entry recorded successfully", 201);
+        }
+        catch
         {
-            MerchantId = request.MerchantId,
-            TransactionId = request.TransactionId,
-            EntryType = request.EntryType,
-            TransactionType = TransactionType.Payment,
-            Amount = request.Amount,
-            BalanceAfter = balanceAfter,
-            CurrencyCode = "NGN",
-            Description = request.Description,
-            Reference = request.Reference
-        };
-
-        _dbContext.LedgerEntries.Add(entry);
-        await _dbContext.SaveChangesAsync(cancellationToken);
-
-        var response = MapToResponse(entry);
-        return new ApiResponse<LedgerEntryResponse>().SuccessResponse(response, "Ledger entry recorded successfully", 201);
+            await dbTransaction.RollbackAsync(cancellationToken);
+            throw;
+        }
     }
-
     public async Task<ApiResponse<decimal>> GetMerchantBalanceAsync(Guid merchantId, CancellationToken cancellationToken = default)
     {
         var lastEntry = await _dbContext.LedgerEntries

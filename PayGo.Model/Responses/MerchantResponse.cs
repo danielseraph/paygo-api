@@ -11,5 +11,6 @@ public class MerchantResponse
     public MerchantStatus Status { get; set; }
     public string CurrencyCode { get; set; } = "NGN";
     public string? ApiKey { get; set; }
+    public string? ApiSecret { get; set; }
     public DateTime CreatedAt { get; set; }
 }
